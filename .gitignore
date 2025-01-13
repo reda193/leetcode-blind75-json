@@ -1,0 +1,17 @@
+
+.idea/
+
+
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+.env
+
+.vscode/
+
+*.wdm
